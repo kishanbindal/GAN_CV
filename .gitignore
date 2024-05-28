@@ -1,0 +1,7 @@
+#h5 saved checkpoint files
+CycleGAN/*.h5
+
+# Dataset
+CycleGAN/iphone2dslr_flower
+
+__pycache__
